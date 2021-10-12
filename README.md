@@ -6,6 +6,4 @@ Projeto que ira apresentar relatórios objetivos referente a resultados de execu
 
 **OBS:** Idéia surgiu de uma rotina no dia-a-dia, aonde acompanho um relatório mais ou menos nesse estilo, porem bem básico, sem um layout organizado, sem usabilidade e sem possibilidade de continuação
 
-# Prototipos
-
-Prototipos estão na pasta PROTOTIPOS do projeto aqui no github
+# [Prototipos](monitor-easy.pdf)
